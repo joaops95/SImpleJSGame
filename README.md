@@ -1,2 +1,0 @@
-# SImpleJSGame
-Created with CodeSandbox
